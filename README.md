@@ -1,11 +1,15 @@
 # test-environment
 </br>
 </br>
-    install global dependencies: 
+    install global dependencies: </br>
         <b> npm install -g webpack </b> </br>
         <b> npm install -g webpack-dev-server </b>
-        
-    install local dependencies: <b> npm install </b> </br>
-    
-    run watcher: <b> webpack --watch </b> </br> 
-    run server : <b> npm start </b>
+</br>        
+    install local dependencies: </br>
+        <b> npm install </b> </br>
+</br>    
+    run watcher: </br>
+        <b> webpack --watch </b> </br> 
+</br>    
+    run server : </br>
+        <b> npm start </b>
